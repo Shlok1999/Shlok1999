@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Web development
 - 💞️ I’m looking to collaborate on Web app projects, to work with startups
 - 📫 How to reach me: Email: 09shlok1999ae1@gmail.com
+- ![Shlok Ranjan github stats](https://github-readme-stats.vercel.app/api?username=Shlok1999&show_icons=true&hide_border=true)
 
 <!---
 Shlok1999/Shlok1999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
